@@ -1,0 +1,2 @@
+# BP
+Seminar baze podataka.
